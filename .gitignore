@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.spec
+build/
+dist/LePaoRunner.exe
+logs/
+*.log
+.vscode/
+.idea/

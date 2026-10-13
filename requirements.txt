@@ -1,0 +1,3 @@
+# 运行本体只依赖 Python 标准库（tkinter / urllib / subprocess / ctypes）
+# 打包 EXE 需要：
+pyinstaller>=6.0

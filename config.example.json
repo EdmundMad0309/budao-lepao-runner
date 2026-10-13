@@ -1,0 +1,50 @@
+{
+  "gui": {
+    "coord_system": "gcj02"
+  },
+  "mumu": {
+    "vm_index": 0,
+    "gateway_port": null,
+    "prefer_http": true
+  },
+  "run": {
+    "speed_kmh": 8.0,
+    "speed_jitter_pct": 6.0,
+    "update_hz": 1.0,
+    "gps_noise_m": 1.8,
+    "laps": 5.0,
+    "start_delay_s": 5.0,
+    "corner_radius_m": 6.0,
+    "loop_forever": false,
+    "log_every_s": 10.0,
+    "kick_every_s": 0.0,
+    "enable_steps": true,
+    "cadence": 0,
+    "lap_line_drift_m": 1.6,
+    "warmup_s": 45.0,
+    "cooldown_s": 20.0,
+    "traffic_events": true,
+    "hide_window": true,
+    "kick_enabled": false,
+    "pause_when_shown": false,
+    "coord_system": "gcj02"
+  },
+  "track": {
+    "points_as_entered": [
+      [31.489662, 120.283575],
+      [31.490962, 120.283575],
+      [31.491464, 120.284976],
+      [31.490965, 120.286376],
+      [31.489665, 120.286376],
+      [31.489163, 120.284976]
+    ],
+    "waypoints_wgs84": [
+      [31.491600, 120.279000],
+      [31.492900, 120.279000],
+      [31.493400, 120.280400],
+      [31.492900, 120.281800],
+      [31.491600, 120.281800],
+      [31.491100, 120.280400]
+    ]
+  }
+}
