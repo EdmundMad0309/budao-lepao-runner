@@ -6,4 +6,4 @@ dist/LePaoRunner.exe
 logs/
 *.log
 .vscode/
-.idea/
+.idea/release-asset/
